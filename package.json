@@ -38,5 +38,6 @@
   },
   "devDependencies": {
     "bootstrap": "^4.6.0"
-  }
+  },
+  "homepage": "https://jgarcia60.github.io/employee-directory",
 }

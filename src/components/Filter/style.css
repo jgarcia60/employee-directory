@@ -1,6 +1,7 @@
 
 .filter {
     width: 100%;
+    align-self: center;
     text-align: center;
     font-size: 3rem;
     text-decoration: underline;
